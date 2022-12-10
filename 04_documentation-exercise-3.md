@@ -4,28 +4,28 @@ For ENA submissions, an extensive list of metadata templates is [here](https://g
 
 |Section|Metadata field|Required?|Definition|Comment|Metadata field GEO|Metadata field ENA|
 |------|--------|--------|--------|--------|-------|------|
-|Project|||||project title|Project title|
-|Project|||||project title|Project name|
-|Project|project summary||||summary|study summary/abstract|
+|Project|||Unique identificator for a study. This is used to link experiments to the study.||project title|Project/Study title/alias|
+|Project|||Title of the study as would be used in a publication.||project title|Project/Study name|
+|Project|project summary||Briefly describes the goals, purpose, and scope of the Study. This need not be listed if it can be inherited from a referenced publication.||summary|study summary/abstract|
 |Project|literature reference||||publications|pudmed id|
-|Project|study title||||Title|Study Title|
-|Project|center name||||Lab, Organisation name|Center Name|
-|Project|||||study name|study name|
-|Experiment|||||experiment ?|experiment title|
-|Experiment|||||?|design description|
-|Experiment|||||construction protocol|construction protocol|
-|Experiment|||||Library Strategy|Library Strategy|
-|Experiment|||||Library source|Library source|
-|Experiment|||||Library selection|Library selection|
-|Experiment|||||Library layout|Library layout|
-|Experiment|||||Instrument|instrument model|
-|Experiment|||||Platform|instrument platform|
-|Run|||||run accession|run alias|
-|Run|||||file name|file name|
+|Project|center name||Lab, Organisation name||Lab, Organisation name|Center Name|
+|Experiment|||Short text that can be used to call out experiment records in searches or in displays. This element is technically optional but should be used for all new records.||experiment ?|experiment title|
+|Experiment|||Goal and setup of the individual library including library was constructed.||?|design description|
+|Experiment|||Free form text describing the protocol by which the sequencing library was constructed.||construction protocol|construction protocol|
+|Experiment|||Sequencing technique intended for this library.||Library Strategy|Library Strategy|
+|Experiment|||The LIBRARY_SOURCE specifies the type of source material that is being sequenced.||Library source|Library source|
+|Experiment|||Method used to enrich the target in the sequence library preparation||Library selection|Library selection|
+|Experiment|||LIBRARY_LAYOUT specifies whether to expect single, paired, or other configuration of reads. In the case of paired reads, information about the relative distance and orientation is specified.||Library layout|Library layout|
+|Experiment|||Model of the sequencing instrument.||Instrument|instrument model|
+|Experiment|||The PLATFORM record selects which sequencing platform and platform-specific runtime parameters. This will be determined by the Center. Optional if 'instrument_model' is provided.
+instrument_model 	Mandatory 	||Platform|instrument platform|
+|Run|||Unique identificator for each run.||run accession|run alias|
+|Run|||The name or relative pathname of a run data file.||file name|file name|
 |Sample|unique ID|required|Identifier for a sample that is at least unique within the project||sample accession|sample alias|
+|Sample|title|required|Short text that can be used to call out sample records in search results or in displays||sample title|sample title|
 |Sample|sample type|required|The type of the collected specimen, eg tissue biopsy, blood draw or throat swab|`ontology field` - e.g. OBI or EFO|||
 |Sample|species|required|The primary species of the specimen, preferably the taxonomic identifier|This may not be the same as the "host" organism, eg in the case of a PDX tissue sample, the host may be a mouse but the tissue may be human. Ontology field - NCBITaxonomy|tax id|tax id|
-|Sample|organism|required|The primary species of the specimen, preferably the taxonomic identifier|This may not be the same as the "host" organism, eg in the case of a PDX tissue sample, the host may be a mouse but the tissue may be human. Ontology field - NCBITaxonomy|organism|scientific name|
+|Sample|scientific name|required|Scientific name of sample that distinguishes its taxonomy. Please use a name or synonym that is tracked in the INSDC Taxonomy database. Also, this field can be used to confirm the TAXON_ID setting|This may not be the same as the "host" organism, eg in the case of a PDX tissue sample, the host may be a mouse but the tissue may be human. Ontology field - NCBITaxonomy|organism|scientific name|
 |Sample|tissue/organism part|required|The tissue from which the sample was taken|`ontology field` - e.g. Uberon|tissue/cell line||
 |Sample|disease|required|Any diseases that may affect the sample|This may not necessarily be the same as the host's disease, eg healthy brain tissue might be collected from a host with type II diabetes while cirrhotic liver tissue might be collected from an otherwise healthy individual. Ontology field - e.g. MONDO or DO|||
 |Sample|sex|required|The biological/genetic sex of the sample|`ontology field` - e.g. PATO|||
@@ -44,4 +44,4 @@ For ENA submissions, an extensive list of metadata templates is [here](https://g
 |Sample|sample collection technique|recommended|The technique used to collect the specimen, eg blood draw or surgical resection|`ontology field` - e.g. EFO or OBI|||
 |Sample|phenotype|recommended|Any relevant (usually abnormal) phenotypes of the specimen or sample ||`ontology field` - e.g. HP or MP; species dependent|||
 |Sample|cell cycle|recommended|The cell cycle phase of the sample (for synchronized growing cells or a single-cell sample), if known|`ontology field` - e.g. GO|||
-|Sample|cell location|recommended|The cell location from which genetic material was collected (usually either nucleus or mitochondria)|`ontology field` - e.g. GO||xxx|
+|Sample|cell location|recommended|The cell location from which genetic material was collected (usually either nucleus or mitochondria)|`ontology field` - e.g. GO|||
