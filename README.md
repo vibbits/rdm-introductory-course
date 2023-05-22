@@ -20,6 +20,12 @@
 
 This course is composed by **8 sessions** that complement each other aiming to give an overview of the steps of Research Data Management (RDM) based on **practical activities and discussions**. All along we focus in practical and analytical view on the **impact** of this practices **on writing and publishing** the results of researchers in scientific journals. This course contains generalized examples and life sciences dedicated examples, but the content is easily **applicable to any areas of science** and research.
 
+#### Material license
+
+<img src="https://raw.githubusercontent.com/vibbits/rdm-course-2022/main/images/logos/CC-by.png" title="" alt="" width="143">
+
+[**CC-BY**](https://creativecommons.org/licenses/by/4.0/)
+
 #### Program
 
 Day 1
@@ -48,8 +54,6 @@ Day 2
 | 14h55 | Planning for efficiency                                       |
 | 17h00 | End of the day                                                |
 
-
-
 #### Complement
 
 - Extra material for trainers: 
@@ -58,17 +62,13 @@ Day 2
 
 - Course presentation:
   
-  - [2022 - December]([RDM_training_Dec2022 - Google Drive](https://drive.google.com/drive/folders/1OTc1DiG7-mhgAMRk7zvTzO0SjO_fgitp?usp=share_link)
+  - [2022 - December]([rdm-course-2022/presentations/2022-dec at main · vibbits/rdm-course-2022 · GitHub](https://github.com/vibbits/rdm-course-2022/tree/main/presentations/2022-dec))
   
   - 2023 - June
-
-
 
 #### Learning Outcomes
 
 Find out what you should be able to achieve after each session.
-
-
 
 **Session 1:** **No data, no paper: better to start with the end in mind**
 
