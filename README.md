@@ -56,9 +56,9 @@ Day 2
 
 #### Complement
 
-- Extra material for trainers: 
+- Extra material for trainers: [List of material]([rdm-course-2022/Material_4trainers.md at main · vibbits/rdm-course-2022 · GitHub](https://github.com/vibbits/rdm-course-2022/blob/main/activities/Material_4trainers.md)
 
-- Extra reading material for students:
+- Extra reading material for students: Work in progress
 
 - Course presentation:
   
