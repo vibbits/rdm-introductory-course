@@ -56,15 +56,15 @@ Day 2
 
 #### Complement
 
-- Extra material for trainers: [List of material]([rdm-course-2022/Material_4trainers.md at main · vibbits/rdm-course-2022 · GitHub](https://github.com/vibbits/rdm-course-2022/blob/main/activities/Material_4trainers.md)
+- Extra material for trainers: [List of material](https://github.com/vibbits/rdm-course-2022/blob/main/activities/Material_4trainers.md)
 
-- Extra reading material for students: Work in progress
+- Extra reading material for students: **Work in progress**
 
 - Course presentation:
   
-  - [2022 - December]([rdm-course-2022/presentations/2022-dec at main · vibbits/rdm-course-2022 · GitHub](https://github.com/vibbits/rdm-course-2022/tree/main/presentations/2022-dec))
+  - [Latest](https://github.com/vibbits/rdm-introductory-course/tree/main/presentations)
   
-  - 2023 - June
+  - [Previous courses](https://github.com/vibbits/rdm-introductory-course/tags)
 
 #### Learning Outcomes
 
