@@ -1,7 +1,5 @@
 # Material for trainers
 
-
-
 - Lego game ( [LEGO® Metadata for Reproducibility game pack - Enlighten Publications](http://eprints.gla.ac.uk/196477/))
 
 - Escape room activity: [Open Science Escape Room](https://sites.google.com/vu.nl/open-science-escape-room/homepage) 
@@ -21,6 +19,9 @@
 - [GitHub - PBR/elixir-fondue-datathon: ELIXIR FONDUE Datathon](https://github.com/PBR/elixir-fondue-datathon) 
 
 - Monopoly game: [FAIRopoly &#8211; FAIRification Guidance for ERN Patient Registries &#8211; EJP RD &#8211; European Joint Programme on Rare Diseases](https://www.ejprarediseases.org/fairopoly/) 
+
 - Using Online shopping to explain Metadata & Documentation : https://hackmd.io/@yJGE1U4oSSW5RiEYLczPzQ/SJjrv9_di/edit**
+
+- Re-using data activity: https://docs.google.com/spreadsheets/d/1pC-_Ea0qAfdnf2zcEb4a1jHSyUhoA7opDurNfnfzVTs/edit#gid=0
 
 
