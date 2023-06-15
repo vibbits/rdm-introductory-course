@@ -2,19 +2,19 @@
 
 #### Contributors
 
-- Alexander Botxki
+- Alexander Botxki [![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0001-6691-4233)
 
-- Bruna Piereck
+- Bruna Piereck [![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0001-5958-0669)
 
-- Flora D'Anna
+- Flora D'Anna [![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0003-4665-6673)
 
-- Laura Standaert
+- Laura Standaert [![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0003-1208-4160)
 
-- Rafael Buono
+- Rafael Buono [![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0002-6675-3836)
 
-- René Custers
+- René Custers [![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0003-1382-3543)
 
-- Veerle Van den Eynden
+- Veerle Van den Eynden [![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0003-2542-2747)
 
 #### About this course
 
@@ -25,6 +25,8 @@ This course is composed by **8 sessions** that complement each other aiming to g
 <img src="https://raw.githubusercontent.com/vibbits/rdm-course-2022/main/images/logos/CC-by.png" title="" alt="" width="143">
 
 [**CC-BY**](https://creativecommons.org/licenses/by/4.0/)
+
+**Soon suggestion on how to make the citation.**
 
 #### Program
 
@@ -166,3 +168,18 @@ Find out what you should be able to achieve after each session.
 - Describe what types of data exist.
 
 - Recognize characteristics of data that need specific RDM measures (e.g. confidential data, large data).
+
+#### Re-use the material : Make the appropriate citation
+
+(Session under developmente)
+
+- If you re-use the whole material or most of it (as inspirations or actively: 
+- If you plan to use one specific session: 
+  - Session 1:
+  - Session 2:
+  - Session 3:
+  - Session 4:
+  - Session 5:
+  - Session 6:
+  - Session 7:
+  - Session 8:
