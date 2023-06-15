@@ -1,10 +1,6 @@
-
-
 ### RDM:Your ally in your publication
 
 Here you can find links that are suggested along the sessions for further reading, consulting and orientation in RDM. Please also feel encoraged to reach out to us if you have any questions, comments or suggestions.
-
-
 
 #### RDM Related Links:
 
@@ -12,12 +8,17 @@ Here you can find links that are suggested along the sessions for further readin
 
 [RDM Guide](https://rdmkit.elixir-europe.org/)
 
-[Elixir
-Services](https://www.elixir-belgium.org/services)
+[Elixir Services](https://www.elixir-belgium.org/services)
 
             [FAIR cookbook](https://faircookbook.elixir-europe.org/content/home.html)
 
             [ELIXR-EU best practices](https://elixir-europe.org/what-we-offer/guidelines)
+
+[Find a license](https://choosealicense.com/)
+
+[Open Source Initiative (Licenses)](https://opensource.org/licenses)
+
+[Creative commons license](https://creativecommons.org/about/cclicenses/)
 
 
 
@@ -36,8 +37,6 @@ Virus sequences originated for VIROPLANT by all partners and deposited in NCBI](
 
 [Table
 of Data originated from EV-ILVO for VIROPLANT project](https://zenodo.org/record/6054397#.Y5hhKnbMK5c)  
-
-
 
 #### Where Do You Look for Data?
 
@@ -92,8 +91,6 @@ github: [GitHub - vibbits/rdm-introductory-course](https://github.com/vibbits/rd
 
 Paper: [Hydrop enables droplet-based single-cell ATAC-seq and single-cell RNA-seq using dissolvable hydrogel beads | eLife](https://elifesciences.org/articles/73971)
 
-
-
 #### Databases:
 
 [FAIR sharing](https://fairsharing.org/)
@@ -131,4 +128,4 @@ data portal](https://www.vliz.be/en/data-submission)
 
 [EMODnet](https://emodnet.ec.europa.eu/en)
 
-[SODAH](https://www.sodha.be/)
+[SODAH](https://www.sodha.be/) 
