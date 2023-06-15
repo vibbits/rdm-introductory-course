@@ -1,6 +1,6 @@
 ### Introduction to Research Data Management (RDM)
 
-#### Contributors
+### Contributors
 
 [![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0001-6691-4233) Alexander Botxki
 
@@ -16,19 +16,19 @@
 
 [![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0003-2542-2747) Veerle Van den Eynden
 
-#### About this course
+### About this course
 
 This course is composed by **8 sessions** that complement each other aiming to give an overview of the steps of Research Data Management (RDM) based on **practical activities and discussions**. All along we focus in practical and analytical view on the **impact** of this practices **on writing and publishing** the results of researchers in scientific journals. This course contains generalized examples and life sciences dedicated examples, but the content is easily **applicable to any areas of science** and research.
 
-#### Material license
+### Material license
 
 <img src="https://raw.githubusercontent.com/vibbits/rdm-course-2022/main/images/logos/CC-by.png" title="" alt="" width="143">
 
 [**CC-BY**](https://creativecommons.org/licenses/by/4.0/)
 
-**Soon suggestion on how to make the citation.**
+> **Soon suggestion on how to make the citation.**
 
-#### Program
+### Program
 
 Day 1
 
@@ -56,7 +56,7 @@ Day 2
 | 14h55 | Planning for efficiency                                       |
 | 17h00 | End of the day                                                |
 
-#### Complement
+### Complement (Links for materials and Reading)
 
 - Extra material for trainers: [List of material](https://github.com/vibbits/rdm-course-2022/blob/main/activities/Material_4trainers.md)
 
@@ -70,7 +70,7 @@ Day 2
   
   - [Previous courses](https://github.com/vibbits/rdm-introductory-course/tags)
 
-#### Learning Outcomes
+### Learning Outcomes
 
 Find out what you should be able to achieve after each session.
 
@@ -171,7 +171,7 @@ Find out what you should be able to achieve after each session.
 
 - Recognize characteristics of data that need specific RDM measures (e.g. confidential data, large data).
 
-#### Re-use the material : Make the appropriate citation
+### Re-use the material : Make the appropriate citation
 
 (Session under developmente)
 
