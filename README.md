@@ -2,19 +2,19 @@
 
 #### Contributors
 
-- Alexander Botxki [![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0001-6691-4233)
+[![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0001-6691-4233) Alexander Botxki
 
-- Bruna Piereck [![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0001-5958-0669)
+[![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0001-5958-0669) Bruna Piereck
 
-- Flora D'Anna [![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0003-4665-6673)
+[![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0003-4665-6673) Flora D'Anna
 
-- Laura Standaert [![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0003-1208-4160)
+[![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0003-1208-4160) Laura Standaert
 
-- Rafael Buono [![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0002-6675-3836)
+[![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0002-6675-3836) Rafael Buono
 
-- René Custers [![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0003-1382-3543)
+[![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0003-1382-3543) René Custers
 
-- Veerle Van den Eynden [![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0003-2542-2747)
+[![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0003-2542-2747) Veerle Van den Eynden
 
 #### About this course
 
@@ -59,6 +59,8 @@ Day 2
 #### Complement
 
 - Extra material for trainers: [List of material](https://github.com/vibbits/rdm-course-2022/blob/main/activities/Material_4trainers.md)
+
+- Interactive actives links for students: [List of links]((https://github.com/vibbits/rdm-introductory-course/blob/main/activities/Material_ACTIVITY_LINKS.md)
 
 - Extra reading material for students: [List of links](https://github.com/vibbits/rdm-introductory-course/blob/main/activities/Material_4trainers.md)
 
