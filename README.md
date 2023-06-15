@@ -60,7 +60,7 @@ Day 2
 
 - Extra material for trainers: [List of material](https://github.com/vibbits/rdm-course-2022/blob/main/activities/Material_4trainers.md)
 
-- Interactive actives links for students: [List of links]((https://github.com/vibbits/rdm-introductory-course/blob/main/activities/Material_ACTIVITY_LINKS.md)
+- Interactive actives links for students: [List of links](https://github.com/vibbits/rdm-introductory-course/blob/main/activities/Material_ACTIVITY_LINKS.md)
 
 - Extra reading material for students: [List of links](https://github.com/vibbits/rdm-introductory-course/blob/main/activities/Material_4trainers.md)
 
