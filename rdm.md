@@ -6,7 +6,8 @@ version:  1.0.0
 language: en
 narrator: UK English Female
 
-logo:     docs/img/logo_VIB_notagline.svg
+icon:     https://raw.githubusercontent.com/vibbits/nextflow-workshop/2024-liascript/docs/img/logo_VIB_noTagline.svg
+logo:     https://raw.githubusercontent.com/vibbits/nextflow-workshop/2024-liascript/docs/img/logo_VIB_noTagline.svg
 
 comment:  This document provide the resources for the Research Data Management Course
 
@@ -34,7 +35,7 @@ This is the third edition of this workshop, jointly organised by the VIB Technol
 > To see this document as an interactive LiaScript rendered version, click on the
 > following link/badge:
 >
-> [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/nextflow-workshop/2024-liascript/RDM.md)
+> [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/rdm.md)
 
 ### Lesson overview
 
