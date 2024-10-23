@@ -11,7 +11,7 @@
 
 ### About this course
 
-This course is composed by **8 sessions** that complement each other aiming to give an overview of the steps of Research Data Management (RDM) based on **practical activities and discussions**. All along we focus in practical and analytical view on the **impact** of this practices **on writing and publishing** the results of researchers in scientific journals. This course contains generalized examples and life sciences dedicated examples, but the content is easily **applicable to any areas of science** and research.
+This course is composed by **6 sessions** that complement each other aiming to give an overview of the steps of Research Data Management (RDM) based on **practical and fun activities, as much as discussions**. All along we focus in practical and analytical view on the **impact** of this practices **on writing and publishing** the results of researchers in scientific journals. This course contains generalized examples and life sciences dedicated examples, but the content is easily **applicable to any areas of science** and research.
 
 ### Material license
 
