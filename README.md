@@ -16,6 +16,8 @@
 
 [![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0003-2542-2747) Veerle Van den Eynden
 
+[![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0009-0005-0193-5224) Dilza Campos
+
 ### About this course
 
 This course is composed by **8 sessions** that complement each other aiming to give an overview of the steps of Research Data Management (RDM) based on **practical activities and discussions**. All along we focus in practical and analytical view on the **impact** of this practices **on writing and publishing** the results of researchers in scientific journals. This course contains generalized examples and life sciences dedicated examples, but the content is easily **applicable to any areas of science** and research.
